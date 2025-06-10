@@ -13,7 +13,7 @@ const properties = [
     baths: 2,
     amenities: ["Parking", "WiFi", "Power Backup"],
     furnishing: "Semi-Furnished",
-    image: "", // No image URL, placeholder used
+    image: "https://housing-images.n7net.in/4f2250e8/304326f5509aaee15fb40816c3d623a4/v0/large/ranveer_oriana-mukundwadi-aurangabad-jay_developers.jpeg", // No image URL, placeholder used
   },
   {
     id: 2,
